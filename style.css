@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(204, 122, 224);
+}
+
+.contenitore{
+ display:grid;
+}
