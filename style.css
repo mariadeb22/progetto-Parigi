@@ -6,33 +6,12 @@ body{
  display:grid;
 }
 
-.primapagina{
+.desktop{
 width: 1440px;
 height: 1024px;
-border: 1px solid black
+border: 1px solid black;
 }
 
-.secondapagina{
-width: 1440px;
-height: 1024px;
-border: 1px solid black
-}
+.primapaginaM{
 
-.terzapagina{
-width: 1440px;
-height: 1024px;
-border: 1px solid black
 }
-    
-.quartapagina{
-width: 1440px;
-height: 1024px;
-border: 1px solid black
-}
-    
-.quintapagina{
-width: 1440px;
-height: 1024px;
-border: 1px solid black
-}
-    
